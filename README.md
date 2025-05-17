@@ -52,7 +52,7 @@ Run the wsgi server to see the website
 ![dataset-cover](https://github.com/user-attachments/assets/f5e3e949-e0ae-4053-b630-19275e56ddab)
 
 
-### Screenshots of the web app
+### Screenshots of the Web App
 
 ![home page](https://github.com/user-attachments/assets/5fa9bad4-817a-482d-bfe9-fe4158f86c4d)
 
