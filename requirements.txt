@@ -1,5 +1,8 @@
 django
 tensorflow
+scikit-learn 
+seaborn 
+transformers
 opencv-python
 django-allauth
 numpy
