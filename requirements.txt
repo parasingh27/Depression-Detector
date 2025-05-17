@@ -1,0 +1,6 @@
+django
+tensorflow
+opencv-python
+django-allauth
+numpy
+django-widget-tweaks
